@@ -5,7 +5,7 @@ Accepted at WACV 2026 : [The IEEE/CVF Winter Conference on Applications of Compu
 ## Authors:
 - [Quan Tran]()
 - [Tuan Dang](www.tuandang.info)
-> All authors are with **Cognitive Robotics Laboratory**  
+> All authors are with [Cognitive Robotics Laboratory](https://www.cogniboticslab.org/)   
 > Department of Electrical Engineering and Computer Science 
 > University of Arkansas, Fayetteville, AR 72701, USA.
 
