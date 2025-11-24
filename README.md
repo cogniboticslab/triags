@@ -16,7 +16,7 @@ Accepted at WACV 2026 : [The IEEE/CVF Winter Conference on Applications of Compu
 
 # Overview
 <p align="center">
-    <img src="images/overview.png"  width="640"/><br/>
+    <img src="images/overview.png"  width="800"/><br/>
 </p>
 
 
