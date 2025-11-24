@@ -170,7 +170,7 @@ See more results in the paper and supplemental documents (will be released soon)
 
 ## Quatitative Results
 <p align="center">
-    <img src="images/results.png"  width="640"/><br/>
+    <img src="images/results.png"  width="800"/><br/>
 </p>
 
 ## Qualitative Results
