@@ -2,6 +2,9 @@
 
 Accepted at WACV 2026 : [The IEEE/CVF Winter Conference on Applications of Computer Vision 2026](https://wacv.thecvf.com/)
 
+
+Link paper (pre-print): [https://arxiv.org/pdf/2512.06269](https://arxiv.org/pdf/2512.06269)
+
 ## Authors:
 - [Quan Tran]()
 - [Tuan Dang](https://tuandang.info)
@@ -166,7 +169,7 @@ python metrics.py -m <output_folder>
 
 # Results
 
-See more results in the paper and supplemental documents (will be released soon).
+See more results in the paper and supplemental documents: [https://arxiv.org/pdf/2512.06269](https://arxiv.org/pdf/2512.06269).
 
 ## Quatitative Results
 <p align="center">
@@ -189,7 +192,7 @@ The implementation of this project is built upon the official PyTorch implementa
   booktitle    = {The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV)},
   year         = {2026},
   month        = March,
-  note         = {},
-  url          = {},
+  doi={10.48550/arXiv.2512.06269}
+  journal={arXiv preprint arXiv:2512.06269},
 }
 ```
